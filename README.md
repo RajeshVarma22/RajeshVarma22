@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)]
+<!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)] -->
 <h1 align="center">Hi 👋, I'm Rajesh Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" alt="CodingIMG">
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" text-align="center" alt="CodingIMG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshvarma22&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshvarma22" /> </p>
 
