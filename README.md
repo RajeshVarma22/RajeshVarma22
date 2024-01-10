@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)] -->
 <h1 align="center">Hi 👋, I'm Rajesh Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://drive.google.com/file/d/15I8pz-2a08hGJh-O9mMIMUVl9Adh0pWs/view?usp=sharing" text-align="center" alt="CodingIMG">
+<!-- <img src="https://drive.google.com/file/d/15I8pz-2a08hGJh-O9mMIMUVl9Adh0pWs/view?usp=sharing" text-align="center" alt="CodingIMG"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshvarma22&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshvarma22" /> </p>
